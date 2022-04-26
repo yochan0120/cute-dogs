@@ -16,7 +16,6 @@ public class Dog {
 		this.breed = breed;
 		this.country = country;
 		this.characteristic = characteristic;
-
 	}
 
 	public int getTitleNo() {
