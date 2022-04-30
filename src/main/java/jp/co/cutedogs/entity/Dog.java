@@ -34,11 +34,11 @@ public class Dog {
 		this.breed = breed;
 	}
 
-	public String getCountryString() {
+	public String getCountry() {
 		return country;
 	}
 
-	public void setCountryString(String country) {
+	public void setCountry(String country) {
 		this.country = country;
 	}
 
